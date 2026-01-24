@@ -34,7 +34,7 @@ function App() {
   const [result, setResult] = useState<ExtractionResult | null>(null);
   const [activeTab, setActiveTab] = useState<'graph' | 'text'>('graph');
 
-  const graphRef = useRef<any>();
+  const graphRef = useRef<any>(); // Reference for the force graph instance
 
   const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     if (e.target.files && e.target.files[0]) {
