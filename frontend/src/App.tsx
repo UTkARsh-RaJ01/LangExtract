@@ -55,9 +55,6 @@ function App() {
     if (apiKey) formData.append('openai_api_key', apiKey);
 
     // Determine Backend URL (Dev vs Prod)
-    // In local dev, use http://localhost:10000
-    // In Render, the frontend and backend are usually separate services.
-    // We'll default to localhost for now, user might need to change for PROD.
     const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "http://localhost:10000";
 
     try {
@@ -91,7 +88,7 @@ function App() {
         <aside className="sidebar">
           <form onSubmit={handleSubmit} className="control-panel">
             <div className="input-group">
-              <label>OpenAI API Key (Optional if set on server)</label>
+              <label>OpenAI API Key (Optional)</label>
               <input
                 type="password"
                 placeholder="sk-..."
