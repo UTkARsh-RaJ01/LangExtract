@@ -152,11 +152,64 @@ function App() {
                     <ForceGraph2D
                       ref={graphRef}
                       graphData={result.graph_data}
-                      nodeLabel="id"
-                      nodeAutoColorBy="type"
+                      nodeCanvasObject={(node, ctx, globalScale) => {
+                        const label = node.label;
+                        const fontSize = 12 / globalScale;
+                        ctx.font = `${fontSize}px Sans-Serif`;
+                        const textWidth = ctx.measureText(label).width;
+                        const bckgDimensions = [textWidth, fontSize].map(n => n + fontSize * 0.2); // some padding
+
+                        ctx.fillStyle = 'rgba(255, 255, 255, 0.2)';
+                        ctx.fillRect(node.x! - bckgDimensions[0] / 2, node.y! - bckgDimensions[1] / 2, ...bckgDimensions);
+
+                        ctx.textAlign = 'center';
+                        ctx.textBaseline = 'middle';
+                        ctx.fillStyle = (node.color as string);
+                        ctx.fillText(label, node.x!, node.y!);
+
+                        // Draw circle
+                        ctx.beginPath();
+                        ctx.arc(node.x!, node.y!, 5, 0, 2 * Math.PI, false);
+                        ctx.fillStyle = (node.color as string) || 'red';
+                        ctx.fill();
+                      }}
                       linkDirectionalArrowLength={3.5}
                       linkDirectionalArrowRelPos={1}
-                      linkLabel="label"
+                      linkCanvasObjectMode={() => 'after'}
+                      linkCanvasObject={(link, ctx, globalScale) => {
+                        const start = link.source as any;
+                        const end = link.target as any;
+                        // If we have a label
+                        if (link.label) {
+                          const textPos = Object.assign({}, ...['x', 'y'].map(c => ({
+                            [c]: start[c] + (end[c] - start[c]) / 2 // calc middle point
+                          })));
+                          const relLink = { x: end.x - start.x, y: end.y - start.y };
+                          // const maxPos = { x: relLink.x < 0 ? -1 : 1, y: relLink.y < 0 ? -1 : 1 }; 
+
+                          // Draw label
+                          const label = link.label;
+                          const fontSize = 10 / globalScale;
+                          ctx.font = `${fontSize}px Sans-Serif`;
+                          const textWidth = ctx.measureText(label).width;
+                          const bckgDimensions = [textWidth, fontSize].map(n => n + fontSize * 0.2);
+
+                          ctx.save();
+                          ctx.translate(textPos.x, textPos.y);
+                          // Could rotate text to match link angle if desired
+                          // const angle = Math.atan2(relLink.y, relLink.x);
+                          // ctx.rotate(angle);
+
+                          ctx.fillStyle = 'rgba(0, 0, 0, 0.8)';
+                          ctx.fillRect(-bckgDimensions[0] / 2, -bckgDimensions[1] / 2, ...bckgDimensions);
+
+                          ctx.textAlign = 'center';
+                          ctx.textBaseline = 'middle';
+                          ctx.fillStyle = 'lightgrey';
+                          ctx.fillText(label, 0, 0);
+                          ctx.restore();
+                        }
+                      }}
                       backgroundColor="#1a1a1a"
                     />
                   </div>

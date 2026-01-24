@@ -185,7 +185,8 @@ textarea:focus {
 }
 
 .text-wrapper {
-  padding: 2rem;
+  padding: 0;
+
   overflow-y: auto;
   height: 100%;
 }
@@ -194,9 +195,11 @@ textarea:focus {
   white-space: pre-wrap;
   font-family: 'Fira Code', monospace;
   background: #1a1a1a;
-  padding: 1.5rem;
+  padding: 2rem;
+  margin: 2rem;
   border-radius: 8px;
   line-height: 1.6;
+  min-height: min-content;
 }
 
 .placeholder-state {
