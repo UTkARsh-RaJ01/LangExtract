@@ -160,7 +160,7 @@ function App() {
                         const bckgDimensions = [textWidth, fontSize].map(n => n + fontSize * 0.2); // some padding
 
                         ctx.fillStyle = 'rgba(255, 255, 255, 0.2)';
-                        ctx.fillRect(node.x! - bckgDimensions[0] / 2, node.y! - bckgDimensions[1] / 2, ...bckgDimensions);
+                        ctx.fillRect(node.x! - bckgDimensions[0] / 2, node.y! - bckgDimensions[1] / 2, bckgDimensions[0], bckgDimensions[1]);
 
                         ctx.textAlign = 'center';
                         ctx.textBaseline = 'middle';
@@ -184,8 +184,6 @@ function App() {
                           const textPos = Object.assign({}, ...['x', 'y'].map(c => ({
                             [c]: start[c] + (end[c] - start[c]) / 2 // calc middle point
                           })));
-                          const relLink = { x: end.x - start.x, y: end.y - start.y };
-                          // const maxPos = { x: relLink.x < 0 ? -1 : 1, y: relLink.y < 0 ? -1 : 1 }; 
 
                           // Draw label
                           const label = link.label;
@@ -196,12 +194,9 @@ function App() {
 
                           ctx.save();
                           ctx.translate(textPos.x, textPos.y);
-                          // Could rotate text to match link angle if desired
-                          // const angle = Math.atan2(relLink.y, relLink.x);
-                          // ctx.rotate(angle);
 
                           ctx.fillStyle = 'rgba(0, 0, 0, 0.8)';
-                          ctx.fillRect(-bckgDimensions[0] / 2, -bckgDimensions[1] / 2, ...bckgDimensions);
+                          ctx.fillRect(-bckgDimensions[0] / 2, -bckgDimensions[1] / 2, bckgDimensions[0], bckgDimensions[1]);
 
                           ctx.textAlign = 'center';
                           ctx.textBaseline = 'middle';
