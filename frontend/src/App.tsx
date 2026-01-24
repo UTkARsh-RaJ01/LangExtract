@@ -1,4 +1,4 @@
-import { useState, useRef, useCallback } from 'react';
+import { useState, useRef } from 'react';
 import ForceGraph2D from 'react-force-graph-2d';
 import { Upload, FileText, Share2, Loader2 } from 'lucide-react';
 import './App.css';
@@ -33,7 +33,7 @@ function App() {
   const [isLoading, setIsLoading] = useState(false);
   const [result, setResult] = useState<ExtractionResult | null>(null);
   const [activeTab, setActiveTab] = useState<'graph' | 'text'>('graph');
-  
+
   const graphRef = useRef<any>();
 
   const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -92,9 +92,9 @@ function App() {
           <form onSubmit={handleSubmit} className="control-panel">
             <div className="input-group">
               <label>OpenAI API Key (Optional if set on server)</label>
-              <input 
-                type="password" 
-                placeholder="sk-..." 
+              <input
+                type="password"
+                placeholder="sk-..."
                 value={apiKey}
                 onChange={(e) => setApiKey(e.target.value)}
               />
@@ -103,22 +103,22 @@ function App() {
             <div className="input-group">
               <label>Upload PDF</label>
               <div className="file-upload-wrapper">
-                <input 
-                  type="file" 
+                <input
+                  type="file"
                   accept=".pdf"
                   onChange={handleFileChange}
-                  id="file-upload" 
+                  id="file-upload"
                   hidden
                 />
                 <label htmlFor="file-upload" className="file-upload-label">
-                   <Upload size={16} /> {file ? file.name : "Choose File"}
+                  <Upload size={16} /> {file ? file.name : "Choose File"}
                 </label>
               </div>
             </div>
 
             <div className="input-group">
               <label>Extraction Instruction</label>
-              <textarea 
+              <textarea
                 value={prompt}
                 onChange={(e) => setPrompt(e.target.value)}
                 rows={4}
@@ -135,17 +135,17 @@ function App() {
           {result ? (
             <div className="results-container">
               <div className="tabs">
-                <button 
-                  className={activeTab === 'graph' ? 'active' : ''} 
+                <button
+                  className={activeTab === 'graph' ? 'active' : ''}
                   onClick={() => setActiveTab('graph')}
                 >
-                  <Share2 size={16}/> Knowledge Graph
+                  <Share2 size={16} /> Knowledge Graph
                 </button>
-                <button 
-                  className={activeTab === 'text' ? 'active' : ''} 
+                <button
+                  className={activeTab === 'text' ? 'active' : ''}
                   onClick={() => setActiveTab('text')}
                 >
-                  <FileText size={16}/> Extracted Text
+                  <FileText size={16} /> Extracted Text
                 </button>
               </div>
 
