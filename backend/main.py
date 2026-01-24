@@ -64,10 +64,12 @@ async def extract_data(
         return result
 
     except Exception as e:
+        import traceback
+        error_detail = traceback.format_exc()
+        print(f"ERROR in /extract: {error_detail}")
         if os.path.exists(file_path):
             os.remove(file_path)
-        # Log error in real app
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(status_code=500, detail=f"Error: {str(e)} | Traceback: {error_detail}")
 
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 10000))
