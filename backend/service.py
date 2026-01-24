@@ -3,7 +3,7 @@ from langchain_community.document_loaders import PyPDFLoader
 from langchain_openai import ChatOpenAI
 from langchain_experimental.graph_transformers import LLMGraphTransformer
 from langchain_core.documents import Document
-from langchain.chains import create_extraction_chain
+
 from langchain_core.prompts import ChatPromptTemplate
 
 async def process_pdf(file_path: str, prompt_instruction: str, api_key: str):
