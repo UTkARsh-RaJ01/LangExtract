@@ -1,81 +1,50 @@
-```markdown
-<center>
+<p align="center">
+  <em>[Placeholder for Company Logo]</em>
+</p>
 
-*[Placeholder for Company Logo]*
+<h1 align="center">COMPREHENSIVE WATER AUDIT REPORT</h1>
 
-</center>
+<p align="center">
+  <strong>Report Number:</strong> CAH/WAR/2025/001
+</p>
 
-<center>
+<p align="center">
+  <strong>Period of Analysis:</strong> 2023-24 to 2024-25
+</p>
 
-# **COMPREHENSIVE WATER AUDIT REPORT**
+<p align="center">
+  <strong>Name of the Firm:</strong> Abaris Healthcare Pvt. Ltd.
+</p>
 
-</center>
+<p align="center">
+  <strong>Location / Address:</strong><br>
+  Survey No 222, Rajpur,<br>
+  Taluka Kadi, Dist. Mehsana,<br>
+  Gujarat
+</p>
 
-<center>
+<p align="center">
+  <strong>CGWA Number:</strong> CGWA/NOC/IND/REN/1/2021/6589
+</p>
 
-**Report Number:** CAH/WAR/2025/001
+<p align="center">
+  <strong>Auditor Name:</strong> Dr. Dhaval Patel
+</p>
 
-</center>
+<p align="center">
+  <strong>Auditor Company:</strong> Climate AI Hub
+</p>
 
-<center>
+<p align="center">
+  <strong>Certificate Number:</strong> W-2025-001
+</p>
 
-**Period of Analysis:** 2023-24 to 2024-25
+<p align="center">
+  <strong>Contact Details</strong><br><br>
+  <strong>Contact No:</strong> +91 9876543210<br>
+  <strong>Email ID:</strong> contact@abarishealthcare.com
+</p>
 
-</center>
-
-<center>
-
-**Name of the Firm:** Abaris Healthcare Pvt. Ltd.
-
-</center>
-
-<center>
-
-**Location/Address:** Survey No 222, Rajpur, Taluka Kadi, Dist. Mehsana, Gujarat
-
-</center>
-
-<center>
-
-**CGWA Number:** CGWA/NOC/IND/REN/1/2021/6589
-
-</center>
-
-<center>
-
-**Auditor Name:** Dr. Dhaval Patel
-
-</center>
-
-<center>
-
-**Auditor Company:** Climate AI Hub
-
-</center>
-
-<center>
-
-**Certificate Number:** W-2025-001
-
-</center>
-
-<center>
-
-**Contact Details:**
-
-</center>
-
-<center>
-
-**Contact No:** +91 9876543210
-
-</center>
-
-<center>
-
-**Email ID:** contact@abarishealthcare.com
-
-</center>
 
 ---
 
