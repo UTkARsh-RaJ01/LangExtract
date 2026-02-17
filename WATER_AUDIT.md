@@ -1,73 +1,23 @@
-```markdown
-<center>
+<div align="center">
 
-*[Placeholder for Company Logo]*
+*Placeholder for Company Logo*
 
-</center>
+# COMPREHENSIVE WATER AUDIT REPORT
 
-<center>
+**Report Number:** CAH/WAR/2025/001  
+**Period of Analysis:** 2023-24 to 2024-25  
+**Name of the Firm:** Abaris Healthcare Pvt. Ltd.  
+**Location/Address:** Survey No 222, Rajpur, Taluka Kadi, Dist. Mehsana, Gujarat  
+**CGWA Number:** CGWA/NOC/IND/REN/1/2021/6589  
+**Auditor Name:** Dr. Dhaval Patel  
+**Auditor Company:** Climate AI Hub  
+**Certificate Number:** W-2025-001  
 
-# **COMPREHENSIVE WATER AUDIT REPORT**
+**Contact Details:**  
+**Contact No:** +91 9876543210  
+**Email ID:** contact@abarishealthcare.com  
 
-</center>
-
-<center>
-
-**Report Number:** CAH/WAR/2025/001
-
-</center>
-
-<center>
-
-**Period of Analysis:** 2023-24 to 2024-25
-
-</center>
-
-<center>
-
-**Name of the Firm:** Abaris Healthcare Pvt. Ltd.
-
-</center>
-
-<center>
-
-**Location/Address:** Survey No 222, Rajpur, Taluka Kadi, Dist. Mehsana, Gujarat
-
-</center>
-
-<center>
-
-**CGWA Number:** CGWA/NOC/IND/REN/1/2021/6589
-
-</center>
-
-<center>
-
-**Auditor Name:** Dr. Dhaval Patel
-
-</center>
-
-<center>
-
-**Auditor Company:** Climate AI Hub
-
-</center>
-
-<center>
-
-**Certificate Number:** W-2025-001
-
-</center>
-
-<center>
-
-**Contact Details:**
-
-**Contact No:** +91 9876543210
-
-**Email ID:** contact@abarishealthcare.com
-
-</center>
+</div>
 
 ---
 
@@ -81,271 +31,227 @@ This Water Audit Report, bearing reference number CAH/WAR/2025/001 and certifica
 
 Abaris Healthcare Pvt. Ltd. is located at Survey No 222, Rajpur, Taluka Kadi, Dist. Mehsana, Gujarat.
 
-*   **Connectivity:** Based on available web research, Abaris Healthcare Pvt Ltd is also located at Survey No. 1407/1411, Village Rajpur, Taluka Kadi. Specific details regarding the distances to the nearest railway station, bus stop, and airport are not explicitly available in the provided web research results. However, given the location in Mehsana district, connectivity is assumed to be available through local transport networks. Further investigation and on-site assessment would be required to accurately determine these distances.
+- **Connectivity:** Based on available web research, Abaris Healthcare Pvt Ltd is also located at Survey No. 1407/1411, Village Rajpur, Taluka Kadi. Specific details regarding the distances to the nearest railway station, bus stop, and airport are not explicitly available in the provided web research results. However, given the location in Mehsana district, connectivity is assumed to be available through local transport networks. Further investigation and on-site assessment would be required to accurately determine these distances.
 
 ### 3. Production Details
 
 Abaris Healthcare Pvt. Ltd. is involved in the manufacturing of I.V. Fluids and Injectables.
 
-*   **List of Products & Approved Quantity:**
+#### List of Products & Approved Quantity
 
 | Product        | Approved Quantity     |
-| -------------- | --------------------- |
-| I.V. Fluids    | 50,000 Bottles/Day   |
-| Injectables    | 10,000 Vials/Day     |
+|---------------|----------------------|
+| I.V. Fluids   | 50,000 Bottles/Day   |
+| Injectables   | 10,000 Vials/Day     |
 
-*   **Annual Production:**
+#### Annual Production
 
-| Metric              | Value              |
-| ------------------- | ------------------ |
-| Annual Production | 1.5 Crore Bottles  |
+| Metric            | Value              |
+|-------------------|-------------------|
+| Annual Production | 1.5 Crore Bottles |
 
-*   **Manufacturing Process:** The manufacturing process at Abaris Healthcare Pvt. Ltd. is a dynamic process involving WFI (Water for Injection) generation, mixing, filling, and sterilization. The term "dynamic process" indicates that the process involves continuous flow and changes in the state of materials throughout the production cycle, in contrast to a static process where materials remain stationary.
+#### Manufacturing Process
 
-    *   **WFI Generation:** Water for Injection (WFI) is produced by distillation or reverse osmosis (RO) followed by distillation. The WFI generation plant includes pre-treatment, RO, electro-deionization (EDI), and ultrafiltration stages to meet stringent purity standards mandated by pharmacopeias like USP and EP. The WFI is stored in a sanitized tank and distributed through a recirculation loop to the point of use. This water is critical in ensuring the purity and safety of the pharmaceutical products.
-    *   **Mixing:** Ingredients are mixed in stainless steel vessels under controlled conditions (temperature, pressure, and mixing speed). The mixing vessels are often equipped with sensors to monitor the homogeneity of the mixture. Automated systems ensure precise ratios of ingredients, maintaining batch-to-batch consistency.
-    *   **Filling:** The filling process involves aseptically filling the mixed solutions into sterilized bottles or vials. High-speed filling machines are used to accurately dispense the product into the containers. The filling is done under laminar airflow hoods to minimize the risk of contamination.
-    *   **Sterilization:** The filled bottles and vials are sterilized using autoclaves or other sterilization methods to ensure the absence of viable microorganisms. Sterilization cycles are validated according to regulatory guidelines to ensure the effectiveness of the sterilization process. Validation parameters include temperature distribution mapping and biological indicator testing.
+The manufacturing process at Abaris Healthcare Pvt. Ltd. is a dynamic process involving WFI (Water for Injection) generation, mixing, filling, and sterilization.
+
+- **WFI Generation:** Water for Injection (WFI) is produced by distillation or reverse osmosis (RO) followed by distillation. The WFI generation plant includes pre-treatment, RO, electro-deionization (EDI), and ultrafiltration stages to meet stringent purity standards mandated by pharmacopeias like USP and EP. The WFI is stored in a sanitized tank and distributed through a recirculation loop to the point of use.
+- **Mixing:** Ingredients are mixed in stainless steel vessels under controlled conditions.
+- **Filling:** The filling process involves aseptically filling into sterilized bottles or vials under laminar airflow.
+- **Sterilization:** Sterilization is done using autoclaves and validated cycles.
 
 ### 4. Employee Details
 
-Abaris Healthcare Pvt. Ltd. employs a significant number of personnel to manage its operations across multiple shifts.
+Abaris Healthcare Pvt. Ltd. employs personnel across multiple shifts.
 
-*   **Details of Employees:**
+#### Details of Employees
 
-| Metric           | Value                 |
-| ---------------- | --------------------- |
-| Total Strength   | 450                   |
-| Shifts           | 3 Shifts per day       |
-| General Shift    | 9:00 AM to 6:00 PM     |
+| Metric         | Value              |
+|---------------|-------------------|
+| Total Strength | 450               |
+| Shifts         | 3 Shifts per day  |
+| General Shift  | 9:00 AM to 6:00 PM |
 
-The employee data indicates a multi-shift operation, necessitating continuous water usage throughout the day. Efficient water management practices are crucial given the scale of operations and the number of employees.
+---
 
 ### 5. Hydrology & Hydrogeology
 
-*   **Hydrology:** Specific details regarding the rainfall pattern, surface water availability, drainage system, and runoff characteristics of the area are not explicitly available in the provided web research results. However, the following information is gathered from the web research:
+#### Hydrology
 
-    *   **Rainfall**: Detailed rainfall intensity and duration data for Rajpur, Kadi Taluka, Mehsana District, are not provided in the available data.
-    *   **Nearby Water Bodies:** Details of any River or Lake within 5 km of Abaris Healthcare Pvt. Ltd. are not explicitly stated in the provided data. A comprehensive hydrological study of the region is recommended to ascertain precise details on surface water bodies.
-    *   **Ratnagiri Coast Reference:** Assessment of Physico-Chemical Parameters and Heavy Metal... discusses surface water samples in polyethylene bottles, APHA standards and levels dropping appreciably in monsoon rains. While not specific to this location, it does provide insight into surface water monitoring methodologies and potential environmental effects related to rainfall.
+Specific details regarding rainfall, surface water, and drainage are not explicitly available. A comprehensive hydrological study is recommended.
 
-*   **Hydrogeology:** Information regarding the specific aquifer system, water table depth/status, groundwater quality, recharge sources, and status of overexploitation in the immediate vicinity of Abaris Healthcare Pvt. Ltd. is not explicitly provided within the web research results. According to "Aquifer Management Plan Formulation" document, it provides an overview of the area – salient features of the Mahesana District. It also mentions Hydrogeology and Aquifer Mapping In North Gujarat Area.
+#### Hydrogeology
+
+Information regarding aquifer system and groundwater status is not explicitly available in provided research. Reference to Aquifer Management Plan Formulation for Mahesana District and North Gujarat area.
+
+---
 
 ### 6. Groundwater Abstraction Structures
 
-*   **Bore Wells:** Abaris Healthcare Pvt. Ltd. utilizes bore wells to extract groundwater for its operational needs.
+#### Bore Wells
 
-    *   **Bore Well Details:**
+| Parameter              | BW-1 | BW-2 |
+|-----------------------|------|------|
+| Tag                   | BW-1 | BW-2 |
+| Depth                 | 1000 feet | 1000 feet |
+| Diameter              | 10 inches | 10 inches |
+| Year of Construction  | 2005 | 2018 |
+| Water Level           | 500 feet | 500 feet |
+| Pump Capacity         | 20 HP | 20 HP |
+| Flow Meter Details    | EMF – 1224512 | EMF – 1224513 |
+| Telemetry Login       | Access provided to authorized personnel | Access provided to authorized personnel |
 
-| Parameter              | BW-1          | BW-2          |
-| ---------------------- | ------------- | ------------- |
-| Tag                    | BW-1          | BW-2          |
-| Depth                  | 1000 feet     | 1000 feet     |
-| Diameter               | 10 inches     | 10 inches     |
-| Year of Construction   | 2005          | 2018          |
-| Water Level            | 500 feet      | 500 feet      |
-| Pump Capacity          | 20 HP         | 20 HP         |
-| Flow Meter Details     | EMF – 1224512 | EMF – 1224513 |
-| Telemetry Login Details| URL: http://samasth.io, User ID: Project@abarishealthcare.com, Password: @Aba2025 | URL: http://samasth.io, User ID: Project@abarishealthcare.com, Password: @Aba2025 |
+#### Piezometers
 
-The bore well details suggest a reliance on groundwater resources, with both wells being of significant depth and equipped with telemetry systems for monitoring.
-
-*   **Piezometers:** Abaris Healthcare Pvt. Ltd. uses piezometers to monitor groundwater levels in the vicinity of its operations.
-
-    *   **Piezometer Details:**
-
-| Parameter        | Value                |
-| ---------------- | -------------------- |
-| Tag              | PZ-1                 |
-| Depth            | 50 m                 |
-| Location         | Near Main Gate       |
-| DWLR Installed   | Yes                  |
-
-The presence of a piezometer with a DWLR (Data Logging Water Level Recorder) indicates a commitment to monitoring groundwater levels, which is crucial for sustainable water resource management.
+| Parameter | Value |
+|-----------|-------|
+| Tag       | PZ-1 |
+| Depth     | 50 m |
+| Location  | Near Main Gate |
+| DWLR Installed | Yes |
 
 ---
 
-## Section 2: Water Sources & Consumption
+# Section 2: Water Sources & Consumption
 
-This section details the sources of water, fresh and recycled water consumption patterns, water quality analysis, water usage monitoring system, wastewater generation and treatment, and rainwater harvesting implementation at the facility. It also presents the Specific Water Consumption (SWC) and benchmarks the facility's performance against industry standards.
+## 1. Sources of Water
 
-**1. Sources of Water**
+Groundwater extracted via BW-1 and BW-2. Treated via RO plant. Recycled water from ETP is reused.
 
-The facility primarily relies on groundwater as its source of fresh water. This is extracted via two borewells: BW-1 and BW-2. Details of these borewells are as follows:
+## 2. Fresh & Recycled Water Consumption
 
-*   **BW-1:** Constructed in 2005, the borewell has a depth of 1000 feet and a diameter of 10 inches. The static water level is at 500 feet. It is equipped with a 20 HP pump. The flow is monitored via an Electromagnetic Flow meter (EMF) with the tag number EMF – 1224512, and telemetry data is accessible via URL: http://samasth.io, User ID: Project@abarishealthcare.com, Password: @Aba2025.
-*   **BW-2:** Constructed in 2018, this borewell also has a depth of 1000 feet and a diameter of 10 inches. The static water level mirrors BW-1 at 500 feet. It is likewise equipped with a 20 HP pump and has an EMF with tag number EMF – 1224513. Telemetry access is also available via URL: http://samasth.io, User ID: Project@abarishealthcare.com, Password: @Aba2025.
+| Water Source   | Daily Consumption (KLD) |
+|---------------|-------------------------|
+| Fresh Water   | 85 |
+| Recycled Water| 15 |
 
-The groundwater is treated via a Reverse Osmosis (RO) plant before being used for process applications like WFI (Water for Injection) generation. Recycled water from the Effluent Treatment Plant (ETP) is also utilized, reducing the demand for fresh water.
+## 3. Overall Water Quality
 
-**2. Fresh & Recycled Water Consumption**
+### Raw Groundwater
+- pH: 7.5  
+- TDS: 1200 mg/L  
 
-The facility's water consumption comprises both fresh and recycled water. The following table summarizes the daily fresh and recycled water consumption based on annual averages:
+### Treated Effluent
+- pH: 7.2  
+- COD: 45 mg/L  
+- BOD: 15 mg/L  
 
-| Water Source          | Daily Consumption (KLD) |
-| --------------------- | ----------------------- |
-| Fresh Water           | 85                      |
-| Recycled Water        | 15                      |
+### ETP Inlet
+- pH: 4.5  
+- COD: 1500 mg/L  
 
-This indicates a significant reliance on fresh water, although the recycled water component contributes to a reduction in overall freshwater demand. Opportunities for increasing the proportion of recycled water should be further explored.
+### ETP Outlet
+- pH: 7.2  
+- COD: 60 mg/L  
 
-**3. Overall Water Quality**
+### STP Inlet
+- BOD: 250 mg/L  
 
-The overall water quality assessment indicates that groundwater is suitable for process use after RO treatment. The raw groundwater analysis shows the following:
-
-*   pH: 7.5 (within the permissible limit of 6.5-8.5 as per IS 3025)
-*   TDS: 1200 mg/L (within the permissible limit of 2000 mg/L as per IS 3025)
-
-The treated effluent analysis shows the following:
-
-*   pH: 7.2 (within the permissible limit of 6.5-8.5 as per IS 3025)
-*   COD: 45 mg/L (within the permissible limit of 250 mg/L as per IS 3025)
-*   BOD: 15 mg/L (within the permissible limit of 30 mg/L as per IS 3025)
-
-ETP Inlet Analysis indicates:
-
-*   pH: 4.5 (Outside permissible limit of 5.5-9.0 as per APHA 4500-H+)
-*   COD: 1500 mg/L (Permissible limit not mentioned as per APHA 5220 B)
-
-ETP Outlet Analysis indicates:
-
-*   pH: 7.2 (Within permissible limit of 5.5-9.0 as per APHA 4500-H+)
-*   COD: 60 mg/L (Within permissible limit of 250 mg/L as per APHA 5220 B)
-
-STP Inlet Analysis indicates:
-
-*   BOD: 250 mg/L (Permissible limit not mentioned as per APHA 5210 B)
-
-STP Outlet Analysis indicates:
-
-*   BOD: 18 mg/L (Within permissible limit of 30 mg/L as per APHA 5210 B)
-
-The ETP and STP parameters indicate that treatment processes are effective in bringing the effluent within permissible limits for discharge or reuse, except for the ETP inlet pH which is out of permissible limit and needs to be investigated. Further monitoring and analysis are essential to ensure compliance with regulatory standards and to protect the environment.
-
-**4. Annual Water Consumption in Various Sections**
-
-The annual water consumption across different sections is broken down as follows:
-
-| Section           | Consumption (KLD) | Percentage |
-| ----------------- | ----------------- | ---------- |
-| Process (WFI)      | 40                | 40%        |
-| Cooling Tower     | 20                | 20%        |
-| Boiler            | 10                | 10%        |
-| Domestic          | 10                | 10%        |
-| Gardening         | 15                | 15%        |
-| Washing           | 5                 | 5%         |
-
-The process (WFI generation) consumes the largest proportion of water (40%), highlighting the importance of optimizing WFI generation and distribution processes to minimize water wastage. Cooling towers represent the second largest consumer at 20%, indicating potential for water savings through optimized cooling water management practices such as drift eliminator upgrades, cycles of concentration optimization and side stream filtration. Gardening, which uses recycled water, accounts for 15% of total water consumption. The rest of the consumption is shared by Boiler and Washing usages.
-
-**5. Water Usage Monitoring System**
-
-The facility employs a sophisticated water usage monitoring system utilizing electromagnetic flow meters (EMF) with telemetry. These flow meters are installed at strategic locations across the facility to monitor water consumption in real-time. Telemetry enables remote access to the flow meter data, providing a comprehensive overview of water usage patterns. The monitoring system covers all major water-consuming areas, including:
-
-*   Borewells (BW-1 and BW-2) – To monitor groundwater extraction.
-*   Inlet to the RO Plant - To monitor water sent for purification.
-*   Process areas (WFI generation, mixing, filling) - To track water used in production.
-*   Cooling towers – To manage water consumption for cooling purposes.
-*   Boiler feed water – To monitor water used for steam generation.
-*   ETP inlet and outlet – To track wastewater generation and treatment effectiveness.
-*   STP inlet and outlet – To track sewage generation and treatment effectiveness.
-*   Recycled water distribution network – To monitor the use of recycled water for gardening and washing.
-
-The telemetry system allows for continuous monitoring of water consumption, enabling early detection of leaks, abnormal usage patterns, and inefficiencies. The monitoring system uses electromagnetic flow meters which are characterized by:
-
-*   **Accuracy**: Typically ±0.5% of flow rate.
-*   **Repeatability**: ±0.1% of flow rate.
-*   **Fluid Conductivity**: Minimum 5 μS/cm.
-*   **Flow Velocity Range**: 0.1 to 10 m/s.
-*   **Operating Temperature**: -20°C to +150°C.
-*   **Material**: Stainless Steel or Carbon Steel with various liner options (e.g., PTFE, Rubber).
-
-Telemetry data is accessible via URL: http://samasth.io, User ID: Project@abarishealthcare.com, Password: @Aba2025. This robust monitoring system is crucial for effective water management and conservation efforts.
-
-**6. Maximum and Minimum Monthly Water Consumption**
-
-Analysis of the monthly water consumption data reveals the following:
-
-*   **Maximum Monthly Consumption:** **2750 KL** in **January 2025**
-*   **Minimum Monthly Consumption:** **2400 KL** in **June 2023**
-
-The difference between maximum and minimum monthly consumption could be attributed to seasonal variations, production schedules, or maintenance activities. Further investigation into the causes of these fluctuations is recommended.
-
-**7. Assessment of Performance of Utility**
-
-The facility's water distribution network and utility performance can be assessed based on the observed consumption patterns. The relatively stable monthly consumption suggests a well-managed water distribution system with minimal leaks or losses. The high proportion of water used for process (WFI) and cooling towers indicates that the efficiency of these processes has a significant impact on overall water consumption. Regular maintenance and optimization of these systems are crucial for maintaining efficient water usage.
-
-The monitoring system in place provides valuable data for assessing utility performance and identifying areas for improvement. Continuous monitoring and analysis of the data are recommended for optimizing water usage and minimizing wastage.
-
-**8. Wastewater Generation & Treatment**
-
-The annual wastewater generation is **20,368 KL (2023-24)** and **20,513 KL (2024-25)**.
-
-The facility employs both an Effluent Treatment Plant (ETP) and a Sewage Treatment Plant (STP) to treat wastewater.
-
-*   **ETP Details:** The ETP has a capacity of **100 KLD** and utilizes a combination of **Primary, Secondary (Activated Sludge Process - ASP), and Tertiary (RO/UF) treatment technologies.** The ETP is designed to treat industrial wastewater generated from process areas, cooling towers, and boiler blowdown.
-*   **STP Details:** The STP has a capacity of **20 KLD** and utilizes **Moving Bed Biofilm Reactor (MBBR) technology.** The STP is designed to treat domestic sewage generated from the facility's restrooms and canteen.
-
-The treated water is then recycled and used for **Garden/Green Belt irrigation and Floor Washing**, reducing the demand for fresh water.
-
-**9. Rainwater Harvesting (RWH)**
-
-The facility has implemented a rooftop rainwater harvesting system with a recharge pit. The system is designed to capture rainwater from the facility's rooftop and recharge the groundwater aquifer. The estimated potential capture is **5000 KL/year.** This system helps to replenish groundwater resources and reduce the facility's reliance on groundwater extraction. Further enhancements to increase the capacity of the rainwater harvesting system may be explored.
-
-**10. Specific Water Consumption (SWC)**
-
-The current **Specific Water Consumption (SWC)** is **2.0 Liters/Bottle**.
-
-The SWC for the last two years is as follows:
-
-*   **Last Year SWC:** 2.1 Liters/Bottle
-*   **Previous Year SWC:** 2.2 Liters/Bottle
-
-The **Industry Benchmark** for SWC is **1.8 Liters/Bottle**.
-
-**Benchmark Comparison:** The current SWC of 2.0 Liters/Bottle is **Slightly higher than the industry benchmark**. This indicates a need for further optimization of water usage in the manufacturing process to achieve industry-leading performance.
+### STP Outlet
+- BOD: 18 mg/L  
 
 ---
 
-### Section 3: Water Conservation Initiatives and Potential Savings
+## 4. Annual Water Consumption in Various Sections
 
-**1. Past Initiatives for Water Conservation**
+| Section        | Consumption (KLD) | Percentage |
+|---------------|------------------|------------|
+| Process (WFI) | 40 | 40% |
+| Cooling Tower | 20 | 20% |
+| Boiler        | 10 | 10% |
+| Domestic      | 10 | 10% |
+| Gardening     | 15 | 15% |
+| Washing       | 5  | 5%  |
 
-The industry has already demonstrated a commitment to water conservation through several key initiatives. These initiatives, implemented prior to this audit, have contributed to a reduction in overall water consumption. Specifically, the following measures have been implemented:
+---
 
-*   **Installation of Flow Meters at Major Consumption Points**: The installation of flow meters at strategic locations throughout the facility has enabled detailed monitoring of water usage patterns. These flow meters provide real-time data on water consumption in various areas such as industrial processes, utility systems, and domestic water use. The data obtained from these meters allows for the identification of areas with high water usage and potential leaks, facilitating prompt corrective actions. The flow meters are regularly calibrated to ensure accuracy and reliability. Data logging capabilities are incorporated for trend analysis and proactive management of water resources. Furthermore, this aligns with the legal mandate under the Water (Prevention and Control of Pollution) Act, 1974, requiring industries to monitor and report water consumption.
+## 5. Water Usage Monitoring System
 
-*   **Replacement of Old Leaky Valves**: A comprehensive program was undertaken to identify and replace old and leaky valves throughout the facility. Leaky valves are a significant source of water loss, and their replacement has resulted in a noticeable reduction in water wastage. The replacement valves were selected based on their quality, durability, and suitability for the specific application. Furthermore, a regular maintenance schedule has been established to ensure the ongoing integrity of the valve network. This proactive approach to valve maintenance minimizes the risk of future leaks and contributes to sustained water conservation efforts. The selection of valve materials and their compatibility with the process water is also considered as mandated by various BIS standards concerning water fittings and plumbing.
+Electromagnetic Flow Meters (EMF) with telemetry are installed at:
 
-*   **Optimization of Cooling Tower Blowdown**: The cooling tower blowdown process has been optimized to minimize water loss while maintaining efficient cooling tower operation. The optimization process involved adjusting the blowdown frequency and duration based on water quality parameters such as conductivity and total dissolved solids (TDS). By carefully controlling the blowdown rate, the amount of water discharged from the cooling tower is reduced, thereby conserving water. Furthermore, the blowdown water is treated to remove contaminants before being discharged, ensuring compliance with environmental regulations. This optimization strategy adheres to the guidelines provided by the Central Pollution Control Board (CPCB) concerning cooling tower operation and wastewater discharge.
+- Borewells  
+- RO Plant inlet  
+- Process areas  
+- Cooling towers  
+- Boiler feed water  
+- ETP & STP  
+- Recycled water network  
 
-**2. Area-wise Potential Reduction in Water Consumption**
+### EMF Specifications
 
-Based on the water audit conducted, several opportunities for further water conservation have been identified across various areas of the facility. These opportunities involve the implementation of specific water conservation measures, which are projected to result in significant reductions in water consumption. The following table summarizes the proposed measures and their potential savings:
+- Accuracy: ±0.5%  
+- Repeatability: ±0.1%  
+- Minimum Conductivity: 5 μS/cm  
+- Velocity Range: 0.1–10 m/s  
+- Operating Temperature: -20°C to +150°C  
 
-| Areas                     | Water Conservation Measures           | Savings per Day (KLD) | Savings per Year (kL/y) |
-| ------------------------- | ------------------------------------- | ----------------------- | ------------------------- |
-| Industrial Process (WFI)  | Reject water recovery from RO plant. | 5 KLD                   | 1825 kL/y                |
-| Utility (Boiler)          | Condensate recovery system.           | 2 KLD                   | 730 kL/y                 |
-| Domestic Water Use        | Install aerators in taps.             | 0.5 KLD                 | 182.5 kL/y               |
-| Green Belt                | Use treated STP water.               | 5 KLD                   | 1825 kL/y                |
+---
 
-The individual water conservation measures and their justification are discussed in detail below:
+## 6. Maximum and Minimum Monthly Water Consumption
 
-*   **Industrial Process (WFI) - Reject Water Recovery from RO Plant**: In the Water for Injection (WFI) production process, Reverse Osmosis (RO) is used to purify water. The RO process generates reject water, which is typically discharged. This reject water, while not meeting WFI standards, is still of relatively high quality and can be recovered and reused for other non-critical applications within the facility. Implementing a reject water recovery system would involve collecting the reject water, treating it to remove any remaining contaminants, and then using it for applications such as cooling tower makeup, equipment washing, or toilet flushing. This measure can significantly reduce the demand for fresh water in the WFI production process. The technical specifications of the proposed RO recovery system would include multi-stage filtration, UV sterilization, and online monitoring of water quality parameters such as conductivity, TOC (Total Organic Carbon), and microbial count. The recovered water will be regularly tested to ensure it meets the required quality standards for the intended application, as mandated by pharmacopeial standards like IP, BP, and USP. This measure is aligned with the 'polluter pays' principle, promoting responsible waste management and resource conservation.
+- **Maximum:** 2750 KL (January 2025)  
+- **Minimum:** 2400 KL (June 2023)  
 
-*   **Utility (Boiler) - Condensate Recovery System**: Boilers generate steam for various processes within the facility. The steam, after use, condenses back into water. This condensate is of high quality, being free from minerals and dissolved solids, and represents a valuable source of water. Implementing a condensate recovery system would involve collecting the condensate, treating it to remove any potential contaminants, and then returning it to the boiler as feedwater. This would reduce the demand for fresh water for boiler makeup, as well as reducing the energy required to heat the feedwater. The condensate recovery system would include features such as corrosion inhibitors, oxygen scavengers, and online monitoring of water quality parameters such as pH, conductivity, and iron content. The recovered condensate would be regularly tested to ensure it meets the boiler feedwater quality standards as prescribed by IS 3025. The recovery also adheres to the energy conservation act of 2001 by lowering the energy consumption to heat the replacement water.
+---
 
-*   **Domestic Water Use - Install Aerators in Taps**: Domestic water use within the facility includes activities such as handwashing, toilet flushing, and cleaning. Installing aerators in taps can significantly reduce water consumption without compromising water pressure. Aerators mix air with water, creating a softer and more voluminous stream, which reduces the amount of water needed for effective handwashing and other activities. The aerators would be selected based on their flow rate, pressure rating, and durability. These will also adhere to BIS standards for water saving plumbing fixtures. The installation of aerators in taps is a low-cost and highly effective water conservation measure that can be implemented throughout the facility.
+## 7. Wastewater Generation & Treatment
 
-*   **Green Belt - Use Treated STP Water**: The facility's green belt requires water for irrigation. Instead of using fresh water for this purpose, treated sewage treatment plant (STP) water can be used. This would involve collecting the treated water from the STP and using it to irrigate the green belt. This would reduce the demand for fresh water for irrigation and reduce the environmental impact of wastewater discharge. The treated STP water would meet the required quality standards for irrigation, as specified by the Central Pollution Control Board (CPCB) and MoEFCC. The treated water must also be tested for salinity and sodicity to ensure that it does not negatively impact the soil quality, complying with the environmental protection act of 1986. The irrigation system should be designed to prevent runoff and minimize water loss through evaporation, as well as prevent the use of spray irrigation during windy conditions.
+- 2023-24: 20,368 KL  
+- 2024-25: 20,513 KL  
 
-The implementation of these water conservation measures will contribute significantly to reducing the facility's environmental footprint and promoting sustainable water management practices. The proposed measures are aligned with the principles of the National Water Policy and the Sustainable Development Goals (SDGs) related to water resource management.
+### ETP
+- Capacity: 100 KLD  
+- Technology: Primary + ASP + RO/UF  
 
-**Total Savings Summary:**
+### STP
+- Capacity: 20 KLD  
+- Technology: MBBR  
 
-The proposed water conservation measures are estimated to result in a total savings of **12.5 KLD (Kiloliters per Day)**, equivalent to **4562.5 kL/y (Kiloliters per Year)**. We have proposed a reduction plan for 12.5 KLD (4562.5 kL/y), showcasing our commitment to responsible water stewardship.
+Treated water reused for gardening and washing.
 
-```
+---
+
+## 8. Rainwater Harvesting
+
+- Rooftop RWH with recharge pit  
+- Estimated 5000 KL/year recharge  
+
+---
+
+## 9. Specific Water Consumption (SWC)
+
+- Current: 2.0 Liters/Bottle  
+- Last Year: 2.1 Liters/Bottle  
+- Previous Year: 2.2 Liters/Bottle  
+- Industry Benchmark: 1.8 Liters/Bottle  
+
+---
+
+# Section 3: Water Conservation Initiatives and Potential Savings
+
+## 1. Past Initiatives
+
+- Installation of Flow Meters  
+- Replacement of Leaky Valves  
+- Cooling Tower Blowdown Optimization  
+
+---
+
+## 2. Area-wise Potential Reduction
+
+| Area | Measure | Savings (KLD) | Savings (kL/year) |
+|------|---------|---------------|------------------|
+| Industrial Process (WFI) | RO Reject Recovery | 5 | 1825 |
+| Utility (Boiler) | Condensate Recovery | 2 | 730 |
+| Domestic | Tap Aerators | 0.5 | 182.5 |
+| Green Belt | STP Reuse | 5 | 1825 |
+
+---
+
+### Total Proposed Savings
+
+**12.5 KLD**  
+**4562.5 kL/year**
+
 
 ---
 
